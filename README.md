@@ -10,8 +10,8 @@
 - 📫 You can contact me also on my email address: **ahouzi2000@hotmail.fr**
 
 <p align="left">
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
    <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="scikit-learn" width="80" height="40"/>
    <img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" alt="keras" width="100" height="40"/>
