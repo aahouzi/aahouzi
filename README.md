@@ -32,19 +32,20 @@
    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="hadoop" width="80" height="60"/>
    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg" alt="Hive" width="80" height="60"/>
    <img src="https://img2.freepng.fr/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" alt="SQL" width="80" height="60"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/1280px-MongoDB-Logo.svg.png" alt="mongodb" width="100" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas" width="90" height="40"/>                <img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" alt="sas" width="90" height="40"/>                                                                    <img src="https://miro.medium.com/max/600/1*XnHKCISImH6bJ8jXYTLnkQ.jpeg" alt="apache-beam" width="70" height="40"/>                                                  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="apache-airflow" width="90" height="40"/>       
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" width="40" height="40"/>
+   <img src="https://www.softfluent.fr/wp-content/uploads/2019/10/css-3.png" alt="css3" width="80" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="60" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>                        <img src="https://miro.medium.com/max/800/1*BBYoIy6qy2jmBtOMJx7Ndw.png" alt="ajax" width="50" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>                        
+   <img src="https://miro.medium.com/max/800/1*BBYoIy6qy2jmBtOMJx7Ndw.png" alt="ajax" width="50" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+   <img src="https://cdn.1min30.com/wp-content/uploads/2018/05/Logo-Docker-1.jpg" alt="docker" width="60" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </p>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png" alt="linux" width="40" height="40"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="mysql" width="40" height="40"/>
+   <img src="https://zdnet2.cbsistatic.com/hub/i/r/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/thumbnail/770x578/5d78c50199e6a9242367b37892be8057/postgresql-logo.png" alt="postgresql" width="40" height="40"/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahouzi&show_icons=true&tmp=a" alt="aahouzi" /></p>
 
