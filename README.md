@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aahouzi" alt="aahouzi" /> </p>
 
-- 👨‍💻 You can reach me out for any opportunities on my LinkedIn: [https://www.linkedin.com/in/anas-ahouzi-6aab0b155/](https://www.linkedin.com/in/anas-ahouzi-6aab0b155/)
+- 👨‍💻 You can reach me out for any opportunities on my LinkedIn: [https://www.linkedin.com/in/aahouzi/](https://www.linkedin.com/in/aahouzi/)
 
 - 💬 We can discuss together on topics involving **Machine Learning, Deep Learning, Data Science and Computer Vision**.
 
