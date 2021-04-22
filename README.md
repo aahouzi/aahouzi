@@ -52,7 +52,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahouzi&layout=compact&hide=html" alt="aahouzi" /></p>
 
 
-<p align="center"> 
+<p align="center">
+<a href="https://www.hackerrank.com/aahouzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aahouzi" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/anas-ahouzi-6aab0b155/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anas-ahouzi" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14928290/aahouzi?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hzitoun" height="30" width="30" /></a>
 </p>
