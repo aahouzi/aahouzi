@@ -50,9 +50,10 @@
    <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="90" height="60"/>
 </p>
 
-<p>&nbsp;
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aahouzi&show_icons=false&tmp=a" alt="aahouzi" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahouzi&layout=compact&hide=html" alt="aahouzi" />                        </p>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=aahouzi&show_icons=true&tmp=a" alt="aahouzi" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahouzi&layout=compact&hide=html" alt="aahouzi" />       
+</p>
 
 
 <p align="center">
