@@ -51,8 +51,8 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aahouzi&show_icons=true&tmp=a" alt="aahouzi" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahouzi&layout=compact&hide=html" alt="aahouzi" />       
+   <img src="https://github-readme-stats.vercel.app/api?username=aahouzi&show_icons=true&tmp=a" height="165"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahouzi&layout=compact&hide=html" />       
 </p>
 
 
