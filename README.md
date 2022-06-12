@@ -20,7 +20,7 @@
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKovfec6owEnabHiXImJwDmFmHg53HXB0rA&usqp=CAU" alt="StanfordCoreNlp" width="50" height="50" />
    <img src="https://radimrehurek.com/gensim_4.0.0/_images/gensim_logo_positive_complete_tb.png" alt="Gensim" width="120" height="60"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" alt="Spacy" width="90" height="50"/>
-   <img src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1 alt="NLTK" width="60" height="60"/>
+   <img src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?resize=592%2C644&ssl=1" alt="NLTK" width="60" height="60"/>
    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="90" height="60"/>
    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" alt="plotly" width="100" height="60"/>
    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="PowerBI" width="90" height="60"/>
