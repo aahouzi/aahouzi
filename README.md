@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Anas AHOUZI</h1>
 <p align="center">
   <a href="https://github.com/aahouzi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+and+motivated;Data+Scientist&center=true&width=500&height=50"></a>
 </p>
