@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anas AHOUZI</h1>
-<h3 align="center">A passionate & motivated Data Scientist</h3>
+<p align="center">
+  <a href="https://github.com/aahouzi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+and+motivated;Data+Scientist&center=true&width=500&height=50"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aahouzi" alt="aahouzi" /> </p>
 
