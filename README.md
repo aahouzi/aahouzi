@@ -53,8 +53,8 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats-5n1u.vercel.app/api?username=aahouzi-intel&show_icons=true&tmp=a" height="165"/>
-   <img src="https://github-readme-stats-5n1u.vercel.app/api/top-langs/?username=aahouzi-intel&layout=compact&hide=html" />       
+   <img src="https://github-readme-stats.vercel.app/api?username=aahouzi-intel&border_color=2e4058" height="165"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahouzi-intel&hide_progress=false&layout=compact&border_color=2e4058" />       
 </p>
 
 
