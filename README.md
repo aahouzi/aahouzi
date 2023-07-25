@@ -3,7 +3,7 @@
   <a href="https://github.com/aahouzi/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+and+motivated;Data+Scientist;AI+Software+Engineer;&center=true&width=500&height=50"></a>
 </p>
 
-- 👨‍ Currently working as an **AI Software Engineer @Intel**.
+- 👨‍ Currently working as an **AI/ML Engineer @Intel**.
 - ⌛ Previously a Data Scientist in the insurance and aerospace industries.
 - 💻 Mainly focusing on NLP, NLU, NLG and MLOps subjects.
 - 📫 You can connect with me through my LinkedIn.
