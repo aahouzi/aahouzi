@@ -14,6 +14,7 @@
 
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aahouzi&border_color=2e4058" height="165"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahouzi&hide_progress=false&layout=compact&border_color=2e4058" />       
+   <img src="https://github-readme-stats-ilab.vercel.app/api?username=aahouzi&border_color=2e4058" height="165"/>
+   <img src="https://github-readme-stats-ilab.vercel.app/api/top-langs/?username=aahouzi&hide_progress=false&layout=compact&border_color=2e4058" />       
 </p>
+
