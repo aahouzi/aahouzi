@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas AHOUZI</h1>
 
-- 👨‍ Currently working as an **AI/ML Engineer @Intel**.
-- ⌛ Previously a Data Scientist in the insurance and aerospace industries.
-- 💻 Mainly focusing on NLP, NLU, NLG and MLOps subjects.
+- 👨‍ Currently working as an **AI Performance Engineer @NVIDIA**.
 - 📫 You can connect with me through my LinkedIn.
 
 <h2>Technologies:</h2>
