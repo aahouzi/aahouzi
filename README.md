@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas AHOUZI</h1>
 
 - 👨‍ Currently working as an **AI Performance Engineer @NVIDIA**.
+- 💻 Focusing on NLP, AI Networking, Distributed training and inference of LLMs.
 - 📫 You can connect with me through my LinkedIn.
 
 <h2>Technologies:</h2>
